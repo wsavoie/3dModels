@@ -1,0 +1,11 @@
+﻿"circle diameter"= 42mm
+"fillet rad"= 2.5 * 2mm
+"carriage length"= 100mm
+"carriage width"= 15mm
+"carriage height"= 30mm
+"rod diameter"= 7.25mm
+"bracket width"= 9mm
+"yoke height"= 3mm
+"yoke width"= 7mm
+"carriage lip width"= 6mm
+"carriage lip height"= 10mm

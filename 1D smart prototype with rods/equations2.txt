@@ -1,0 +1,15 @@
+﻿"circle diameter"= 42mm
+"fillet rad"= 2.5 * 2mm
+"carriage length"= 100mm
+"carriage width"= 15mm
+"carriage height"= 30mm
+"rod diameter"= 7.25mm
+"bracket width"= 9mm
+"yoke width"= 7mm
+"yoke height"= 3mm
+"D1@Boss-Extrude1@scotch-yoke yoke-1.Part" = "yoke height"
+"carriage lip width"= 6mm
+"carriage lip height"= 10mm
+"D1@Sketch2"="carriage lip width"
+"D1@plexi stand" = "carriage lip height"
+"D1@Sketch9"="bracket width"
